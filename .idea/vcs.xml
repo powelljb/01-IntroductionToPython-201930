@@ -2,5 +2,14 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../02-ObjectsFunctionsAndMethods-201930" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../03-AccumulatorsAndFunctionsWithParameters-201930" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../04-TheAccumulatorPattern-201930" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../05a-Debugging-201930" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../05b-Exam1Practice-201930" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../06-IntroductionToRobots-201930" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../08-Exam1-201930" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../09-ImplementingClasses-201930" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../10-MoreImplementingClasses-201930" vcs="Git" />
   </component>
 </project>
