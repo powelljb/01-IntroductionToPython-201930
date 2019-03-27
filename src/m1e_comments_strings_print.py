@@ -25,10 +25,11 @@
 #
 ###############################################################################
 
-
-print('Hello, World')
-print('hi there')
-print('one', 'two', 'buckle my shoe')
-
-print(3 + 9)
-print('3 + 9', 'versus', 3 + 9)
+#
+# print('Hello, World')
+# print('hi there')
+# print('one', 'two', 'buckle my shoe')
+# print('This is my first code in Python')
+# print(3 + 9)
+# print('3 + 9', 'versus', 3 + 9)
+# print(24/7)
